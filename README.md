@@ -2,7 +2,11 @@
 
 Please cite the following paper if you are using this code:
 
-Tanveer, M., Sharma, R. K., Quadir, A., & Sajid, M. (2025). Enhancing robustness and efficiency of least square twin SVM via granular computing. Pattern Recognition, 112021. https://doi.org/10.1016/j.patcog.2025.112021
+Tanveer, M., Sharma, R. K., Quadir, A., & Sajid, M. (2025). Enhancing robustness and efficiency of least square twin SVM via granular computing. Pattern Recognition, 112021. doi: 10.1016/j.patcog.2025.112021
+
+Paper Link: https://doi.org/10.1016/j.patcog.2025.112021
+
+Arxiv Link: https://doi.org/10.48550/arXiv.2410.17338
 
 BibTex
 ---
